@@ -6,6 +6,9 @@ send_metrics = false
 minify = false
 upload_source_maps = true
 
+[ai]
+binding = "AI"
+
 [build]
 command = ""
 
