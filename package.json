@@ -1,0 +1,16 @@
+{
+  "name": "ai-cfm",
+  "description": "AI Image Generator with Web Interface - Built with Cloudflare Workers",
+  "main": "worker.js",
+  "scripts": {
+    "deploy": "npx wrangler deploy",
+    "dev": "npx wrangler dev",
+    "build": "echo 'No build step required'",
+    "preview": "npx wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  },
+  "private": true,
+  "license": "MIT"
+}
