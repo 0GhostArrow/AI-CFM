@@ -16,7 +16,7 @@
 
 **AI-CFM** is a comprehensive AI image generation platform built on Cloudflare Workers. It provides both a beautiful **web interface** for visual image generation and a powerful **REST API** for programmatic access.
 
-Generate stunning images from text prompts using state-of-the-art Stable Diffusion models - completely **free** with up to **100,000 generations per day**!
+Generate stunning images from text prompts using state-of-the-art Stable Diffusion models - completely **free** with up to **10,000 generations per day**!
 
 ---
 
@@ -487,7 +487,7 @@ npm run deploy
 **100% Free!**
 
 - **Cloudflare Workers**: Unlimited requests on free tier
-- **Workers AI**: 100,000 generations per day free
+- **Workers AI**: 10,000 generations per day free
 - **Cloudflare CDN**: Global edge network included
 
 See [Cloudflare Pricing](https://developers.cloudflare.com/workers-ai/platform/pricing/) for details.
